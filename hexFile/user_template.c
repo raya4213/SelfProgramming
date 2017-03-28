@@ -33,7 +33,6 @@ void loop()
  //*	The function below is optional - commenting it in can be useful for debugging if you want to query
  //*	user variables over a serial connection.
  //*/
-
  
  //send multiple data and receive
 
